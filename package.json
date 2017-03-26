@@ -1,0 +1,21 @@
+{
+  "name": "NodejsStarterApp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "@types/mongodb": "^2.1.41",
+    "cfenv": "1.0.x",
+    "cloudant": "^1.7.1",
+    "crawler": "^1.0.3",
+    "fbgraph": "^1.4.1",
+    "mongodb": "^2.2.25",
+    "request": "^2.81.0"
+  },
+  "repository": {},
+  "engines": {
+    "node": "4.x"
+  }
+}
