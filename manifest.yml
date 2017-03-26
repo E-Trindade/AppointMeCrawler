@@ -4,5 +4,5 @@ applications:
   instances: 1
   domain: mybluemix.net
   name: Appoint Me
-  host: appoint-Me
+  host: Appoint-Me-Crawler
   disk_quota: 1024M
